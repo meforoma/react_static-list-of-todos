@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/TodoInfo/TodoInfo.scss"],"names":[],"mappings":"AAAA,MACE,eAAgB,CACjB,YAGC,mBAAiB,CAAI,kBAGN,mBACE,CAAA,UACV","file":"main.77a47e28.chunk.css","sourcesContent":[".todo {\n  padding: 4px 8px;\n}\n\n.todo-state {\n  list-style-type: \"☐\";\n}\n\n.todo-state--done {\n  list-style-type: \"☑\";\n  color: grey;\n}\n"]}
